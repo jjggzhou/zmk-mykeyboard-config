@@ -3,7 +3,7 @@ include:
   - board: corne_v4_left
     shield: nice_view_adapter nice_view
     snippet: studio-rpc-usb-uart
-  - board: corne-v4_right
+  - board: corne_v4_right
     shield: nice_view_adapter nice_view
     snippet: studio-rpc-usb-uart
   - board: nice_nano_v2
